@@ -1,0 +1,6 @@
+[server]
+headless = true
+runOnSave = true
+
+[theme]
+base = "light"

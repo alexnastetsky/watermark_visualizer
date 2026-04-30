@@ -1,0 +1,4 @@
+v1
+{"batchWatermarkMs":1714478400000,"batchTimestampMs":1714478700000,"conf":{"spark.sql.shuffle.partitions":"200"}}
+{"sourceVersion":1,"reservoirId":"impressions-reservoir","reservoirVersion":17,"index":-1,"isStartingVersion":false}
+{"sourceVersion":1,"reservoirId":"clicks-reservoir","reservoirVersion":11,"index":-1,"isStartingVersion":false}

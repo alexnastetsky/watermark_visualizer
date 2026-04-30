@@ -1,0 +1,4 @@
+v1
+{"batchWatermarkMs":1714478100000,"batchTimestampMs":1714478300000,"conf":{}}
+{"sourceVersion":1,"reservoirId":"impressions-reservoir","reservoirVersion":2,"index":-1,"isStartingVersion":false}
+{"sourceVersion":1,"reservoirId":"clicks-reservoir","reservoirVersion":2,"index":-1,"isStartingVersion":false}
